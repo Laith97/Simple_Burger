@@ -101,7 +101,7 @@ body {
 
 @media screen and (max-width: 768px) {
     .burger {
-        width: 80%; 
+        width: 60%; 
     }
 
     .bun-top-layer,
